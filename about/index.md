@@ -66,3 +66,7 @@ Tech stacks:
 
 Tech stacks:
 - C#, C++, Gaming, GPU programming, Mobile app development. 
+
+
+### Software Consultant — Freelance
+- Proving software consultantcy services to businesses. 
