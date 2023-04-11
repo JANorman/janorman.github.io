@@ -58,7 +58,7 @@ Tech stacks:
 
 
 
-#### [Jun 2011 - Dec 2012] Lead Support Engineer, PlayStation Mobile - Sony Computer Entertainment Europe (PlayStation)
+### [Jun 2011 - Dec 2012] Lead Support Engineer, PlayStation Mobile - Sony Computer Entertainment Europe (PlayStation)
 - Supported the launch of the new product, PlayStation Mobile (pre and post launch) 
 - Point of contact with Developers who were building and producing titles for the platform. 
 - Triaging and aftering community questions. Engaging with core engineering to resolve other questions. 
